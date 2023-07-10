@@ -7,8 +7,8 @@ TO DO:
 
 Electronics:
   -> Battery - 
-  -> RX - 
-  -> TX - 
+  -> RX - FS2a
+  -> TX - FS-i6x or Jumper T-Lite V2 JP4n1
   -> Motors for wheels - 
   -> Motor for weapon - 
-  -> 
+  -> ESC - 
